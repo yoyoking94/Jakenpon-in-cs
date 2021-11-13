@@ -1,0 +1,10 @@
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\bin\Debug\Jakenpon.exe.config
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\bin\Debug\Jakenpon.exe
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\bin\Debug\Jakenpon.pdb
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\obj\Debug\Jakenpon.csproj.AssemblyReference.cache
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\obj\Debug\Jakenpon.Form1.resources
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\obj\Debug\Jakenpon.Properties.Resources.resources
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\obj\Debug\Jakenpon.csproj.GenerateResource.cache
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\obj\Debug\Jakenpon.csproj.CoreCompileInputs.cache
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\obj\Debug\Jakenpon.exe
+C:\Users\Yovish MOONESAMY\source\repos\Jakenpon\obj\Debug\Jakenpon.pdb
